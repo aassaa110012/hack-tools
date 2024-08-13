@@ -14,9 +14,9 @@ with open("README.md") as f:
 					]
 				},
 
-			install_requires = [ "CouchDB==1.0", "httplib2==0.18.1", "ipcalc==1.1.3",\
-								 "NoSQLAttack==0.2", "pbkdf2==1.3", "pymongo==2.7.2",\
-								 "requests==2.20.0","shodan==1.5.3"],
+			install_requires = [ "CouchDB==1.0", "httplib2==0.19.0", "ipcalc==1.1.3",\
+								 "NoSQLAttack==0.2", "pbkdf2==1.3", "pymongo==4.6.3",\
+								 "requests==2.32.2","shodan==1.5.3"],
 
 			author = "Carl Sun",
 			author_email = "sunxiuyang04@gmail.com",
